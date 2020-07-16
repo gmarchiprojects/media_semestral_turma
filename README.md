@@ -1,5 +1,8 @@
 # Sistema de Médias Semetral de Alunos
 
+
+#ESCOPO DO PROJETO
+
 Você foi convidado para criar um sistema de gestão acadêmica que deve calcular as médias semestrais dos alunos.
 Inicialmente, você deve estruturar um programa para ser experimentado em apenas uma disciplina, como projeto piloto.
 
@@ -8,3 +11,4 @@ Os alunos são considerados aprovados, caso obtenham média semestral superior o
 Caso obtenham notas entre 7.9 e 5, devem realizar a Avaliação Final (AF) e os alunos com médias abaixo de 5, são considerados reprovados.
 
 Desenvolva um código que ao fim da execução do programa, devem ser exibidas a média geral da turma, a menor e a maior nota. Assim como a quantidade de alunos que foram aprovados, reprovados e que necessitarão realizar AF.
+
